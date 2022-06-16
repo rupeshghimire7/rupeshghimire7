@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rupeshghimire7
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning Data Science in Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any topic of my interest.
 - 📫 How to reach me @rupesh_ghimire7 on twitter and mail address rupeshghimire17@gmail.com
 
 <!---
