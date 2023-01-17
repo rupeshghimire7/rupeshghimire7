@@ -60,18 +60,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<!-- Most Used Languages -->
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshghimire7&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most used languages by Rupesh Ghimire" />
-</p>
-
-
-<!-- Github Stats -->
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rupeshghimire7&show_icons=true&theme=dark&locale=en" alt="Github Stats Rupesh Ghimire" />
-</p>
-
-
 <!-- Contributions, Current Streak, Longest streak -->
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshghimire7&theme=dark&locale=en" alt="Rupesh Ghimire" />
