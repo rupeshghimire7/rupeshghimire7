@@ -60,12 +60,14 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+<br>
+
 <!-- Profile views -->
 <p alight="right">
   <img align="center" src="https://komarev.com/ghpvc/?username=rupeshghimire7&style=plastic&color=blue" />
 </p>
 
-<br><br>
+<br>
 
 <!-- Contributions, Current Streak, Longest streak -->
 
