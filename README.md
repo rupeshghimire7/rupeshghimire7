@@ -61,14 +61,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- Contributions, Current Streak, Longest streak -->
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshghimire7&theme=dark&locale=en" alt="Rupesh Ghimire" />
-</p>
-
-<img align="centre" alt="RupeshGhimire's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rupeshghimire7&locale=en&theme=great-gatsby&layout=compact&show_icons=true" alt="RupeshGhimrie's GitHub Stats" /> 
-<br>
-
-<img align="centre" alt="RupeshGhimire's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshghimire7&locale=en&show_icons=false&theme=great-gatsby&layout=compact"  alt="RupeshGhimrie's Top Languages"/>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rupeshghimire7&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
 
