@@ -72,6 +72,10 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rupeshghimire7&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshghimire7&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></p>
+
+<p style="margin-top:50px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupeshghimire7&theme=radical&show_icons=true)" alt="dikshyant3" /></p>
+
 <!-- Profile views -->
 <p alight="right">
   <img align="right" src="https://komarev.com/ghpvc/?username=rupeshghimire7&style=plastic&color=blue" />
