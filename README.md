@@ -65,6 +65,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://komarev.com/ghpvc/?username=rupeshghimire7&style=plastic&color=blue" />
 </p>
 
+<br><br>
+
 <!-- Contributions, Current Streak, Longest streak -->
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rupeshghimire7&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
