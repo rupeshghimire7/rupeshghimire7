@@ -70,6 +70,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <!-- Contributions, Current Streak, Longest streak -->
+<h4> Contributions, Streaks and Languages </h4>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rupeshghimire7&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
 
