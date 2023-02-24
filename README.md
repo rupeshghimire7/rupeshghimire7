@@ -9,6 +9,16 @@ rupeshghimire7/rupeshghimire7 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <!--Instagram -->
+<a href="https://www.instagram.com/rupesh_ghimire7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupesh_ghimire7" height="30" width="40" /></a>
+<!--LinkedIn -->
+<a href="https://www.linkedin.com/in/rupesh_ghimire7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Linkedin.svg" alt="rupesh_ghimire7" height="30" width="40" /></a>
+</p>
+
+
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 
