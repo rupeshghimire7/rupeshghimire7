@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
         align="center"
         height="150vh"
         alt="Wakatime-Stats"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=rupesh_ghimire7&theme=dark&langs_count=4"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=rupeshghimire7&theme=dark&langs_count=4"
     />
 </p>
 
