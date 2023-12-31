@@ -1,15 +1,18 @@
-<h1>Hey I am, Rupesh Ghimire</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3003&pause=200&center=true&vCenter=true&width=435&lines=Hey+there!;I+am+Rupesh+Ghimire.;Building+AI+based+products;Wanna+collaborate?;" alt="Rupesh Ghimire"  style="align:center"/>
+</p>
 
-<img src="https://github.com/rupeshghimire7/rupeshghimire7/blob/master/Landing%20Page.jpg" style="width:1250px; height:564px;" alt=" banner that says Rupesh Ghimire - Computer Engineering Undergrad, AI Enthusiast and Django Practitioner">
+<img src="https://github.com/rupeshghimire7/rupeshghimire7/blob/master/GithubCover.png" alt=" banner that says Rupesh Ghimire - Computer Engineering Undergrad, AI Enthusiast and Django Practitioner">
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <!--Instagram -->
-<a href="https://twitter.com/rupesh_ghimire7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupesh_ghimire7" height="30" width="40" /></a>
-<!--LinkedIn -->
- <a href="https://www.linkedin.com/in//rupesh-ghimire7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rupesh Ghimire" height="30" width="40" /></a>
+<h2 align="center"> 📫 Let's Connect...</h2>
+<p align="center">
+  
+A good community and good companions always help you grow.
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-ghimire7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_rupesh_7) [![Email](https://img.shields.io/badge/-Gmail-e51d0b?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rupeshghimire17@gmail.com) [![Webbsite](https://img.shields.io/badge/-Website-103?style=for-the-badge&logo=firefox&logoColor=white)](https://rupeshghimire7.github.io/Rupesh-Ghimire/) [![Medium](https://img.shields.io/badge/-Medium-721?style=for-the-badge&logo=hashnode&logoColor=white)](https://rupeshghimire7.medium.com) 
 </p>
 
 
