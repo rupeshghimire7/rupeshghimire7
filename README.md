@@ -1,6 +1,6 @@
 <h1>Hey I am, Rupesh Ghimire</h1>
 
-<img src="https://github.com/rupeshghimire7/rupeshghimire7/blob/master/Landing%20Page.jpg" alt="banner that says Rupesh Ghimire - Computer Engineering Undergrad, AI Enthusiast and Django Practitioner">
+<img src="https://github.com/rupeshghimire7/rupeshghimire7/blob/master/Landing%20Page.jpg" style="width:1250px; height:564px;" alt=" banner that says Rupesh Ghimire - Computer Engineering Undergrad, AI Enthusiast and Django Practitioner">
 
 
 
