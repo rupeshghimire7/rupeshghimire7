@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Rupesh Ghimire.
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I have experience in Python Django and am currently learning Deep Learning.
-- 🤝 I’m looking to collaborate on any topic of my interest.
-- 📫 How to reach me @rupesh_ghimire7 on Twitter and mail address rupeshghimire17@gmail.com
+<h1>Hey I am, Rupesh Ghimire</h1>
 
+<img src="https://github.com/rupeshghimire7/rupeshghimire7/blob/master/Landing%20Page.jpg" alt="banner that says Rupesh Ghimire - Computer Engineering Undergrad, AI Enthusiast and Django Practitioner">
 
 
 
