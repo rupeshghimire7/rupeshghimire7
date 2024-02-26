@@ -3,12 +3,27 @@
 </p>
 
 <br>
-<img src="https://github.com/rupeshghimire7/rupeshghimire7/blob/master/GithubCover.png" alt=" banner that says Rupesh Ghimire - Computer Engineering Undergrad, AI Enthusiast and Django Practitioner">
-<p>AI enthusiast with a knack for solving real-world problems through the creation of innovative products. Proficient in Django, I'm eager to collaborate on meaningful projects. Let's build the future together!</p>
+<!-- <img src="https://github.com/rupeshghimire7/rupeshghimire7/blob/master/GithubCover.png" alt=" banner that says Rupesh Ghimire - Computer Engineering Undergrad, AI Enthusiast and Django Practitioner"> -->
+<p>AI enthusiast with a knack for solving real-world problems through the creation of innovative products. Proficient in Django, I'm eager to collaborate on meaningful projects. Let's build the future together!</p> 
 
 <hr>
+
+<img align='right' src='https://github.com/rupeshghimire7/rupeshghimire7/blob/master/goku.gif' height="325" width="325"/>
+<br>
+<h2>Currently I am:</h2>
+<ul style='list-style: none; padding-left: 0px'>
+    <li>🔭 Working on a fun project (Stay tuned 😉).</li>
+    <li>🧐 Learning LLM.</li>
+    <li>💬 Hit me about anything interesting on AI.</li>
+    <li>🍥 Suggest me some peaceful animes.</li>
+    <li>⛰️ Let's go on a hike.</li>
+  
+
+</ul>
 <br>
 <br>
+<br>
+<hr>
 
 <h2 align="center">  Let's Connect 🤝🌐</h2>
 <p align="center">
