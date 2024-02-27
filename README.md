@@ -7,7 +7,7 @@
 <p>AI enthusiast with a knack for solving real-world problems through the creation of innovative products. Proficient in Django, I'm eager to collaborate on meaningful projects. Let's build the future together!</p> 
 <hr>
 
-<img align='right' src='https://github.com/rupeshghimire7/rupeshghimire7/blob/master/goku.gif' height="325" width="325"/>
+<img align='right' src='https://github.com/rupeshghimire7/rupeshghimire7/blob/master/goku.gif' height="300" width="325"/>
 
 <b>Currently I am:</b>
 <br>
