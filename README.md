@@ -67,8 +67,7 @@ A good community and good companions always help you grow.
     </tr>
     <tr>
         <td align="left">
-            <img align="left" height="150vh" alt="Profile-Overview"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshghimire7&theme=tokyonight" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshghimire7&theme=radical" alt="rupeshghimire7" />
         </td>
         <td align="left">
             <img align="left" height="150vh" alt="Wakatime-Stats"
