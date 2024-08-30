@@ -29,7 +29,7 @@
 A good community and good companions always help you grow.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-ghimire7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_rupesh_7) [![Email](https://img.shields.io/badge/-Gmail-e51d0b?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rupeshghimire17@gmail.com) [![Webbsite](https://img.shields.io/badge/-Website-103?style=for-the-badge&logo=firefox&logoColor=white)](https://rupeshghimire7.github.io/Rupesh-Ghimire/) [![Medium](https://img.shields.io/badge/-Medium-721?style=for-the-badge&logo=hashnode&logoColor=white)](https://rupeshghimire7.medium.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupesh-ghimire7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_rupesh_7) [![Email](https://img.shields.io/badge/-Gmail-e51d0b?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rupeshghimire17@gmail.com) [![Webbsite](https://img.shields.io/badge/-Website-103?style=for-the-badge&logo=firefox&logoColor=white)](https://rupeshghimire7.github.io/Rupesh-Ghimire/) [![Medium](https://img.shields.io/badge/-Medium-721?style=for-the-badge&logo=hashnode&logoColor=white)](https://medium.com/@rupeshghimire7) 
 </p>
 
 <hr>
