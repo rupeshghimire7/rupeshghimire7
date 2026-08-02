@@ -12,8 +12,8 @@
 <b>Currently I am:</b>
 <br>
 <ul style='list-style: none; padding-left: 0px'>
-    <li>🔭 Working on a fun project (Stay tuned 😉).</li>
-    <li>🧐 Learning LLM.</li>
+    <li>🔭 Working on a personal project to help people with legal documents. Stay Tuned!</li>
+    <!-- <li>🧐 Learning LLM.</li> -->
     <li>💬 Hit me about anything interesting on AI.</li>
     <li>🍥 Suggest me some peaceful animes.</li>
     <li>⛰️ Let's go on a hike.</li>
