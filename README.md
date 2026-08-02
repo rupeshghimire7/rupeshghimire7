@@ -44,12 +44,12 @@ A good community and good companions always help you grow.
 
 
 <hr>
-<br>
+<!-- <br>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rupeshghimire7" alt="rupeshghimire7" />
   </a>
-</p>
+</p> -->
 <br>
 
 <!-- Contributions, Current Streak, Longest streak -->
