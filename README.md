@@ -60,7 +60,7 @@ A good community and good companions always help you grow.
             <h4>Stats</h4>
         </th>
     </tr>
-    <tr>
+    <!-- <tr>
         <td align="left">
             <img align="left" height="150vh" alt="Most-Used-Language"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshghimire7&show_icons=true&theme=tokyonight&layout=compact" />
@@ -69,15 +69,15 @@ A good community and good companions always help you grow.
             <img align="left" height="150vh" alt="Github-Stats"
                 src="https://github-readme-stats.vercel.app/api?username=rupeshghimire7&show_icons=true&theme=tokyonight" />
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td align="left">
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshghimire7&theme=radical" alt="rupeshghimire7" />
         </td>
-        <td align="left">
+        <!-- <td align="left">
             <img align="left" height="150vh" alt="Wakatime-Stats"
                 src="https://github-readme-stats.vercel.app/api/wakatime?username=rupesh_ghimire7&theme=tokyonight&langs_count=4" />
-        </td>
+        </td> -->
     </tr>
 </table>
 
